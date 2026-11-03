@@ -1,0 +1,6 @@
+{
+  "name": "Apple Emulator A34",
+  "description": "Ambiente de simulação visual macOS e iOS otimizado para Samsung Galaxy A34, com gerenciador de dispositivos, biblioteca de aplicativos, modo gamer e monitor de desempenho.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
